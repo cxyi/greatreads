@@ -1,4 +1,5 @@
 # greatreads
 
-Playing around with the goodreads API
+Playing around with Goodreads API
+
 
